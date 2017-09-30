@@ -1,2 +1,2 @@
-Pimer entrega procesador.
+Primer entrega procesador.
 Juan Sebastian Angel Carmona
